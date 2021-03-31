@@ -9,7 +9,7 @@ A website that offers a way for user to creat safe passwords.
 * *JavaScript
 
 ## Website
-
+https://mandahos.github.io/Password-Generator/
 
 ## Contribution
 Made with 💧 by Amanda
